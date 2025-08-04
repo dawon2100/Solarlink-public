@@ -1,3 +1,3 @@
-Copyright (c) 2025 Junglim Architects
+Copyright &copy; 2025 Junglim Architects
 
 All Rights Reserved.
